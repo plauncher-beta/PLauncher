@@ -1,0 +1,5 @@
+{
+  "latest_release": "1.20.1",
+  "latest_snapshot": "1.21-snapshot",
+  "versions": ["1.20.1", "1.19.4", "1.18.2", "1.12.2"]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "PvP Setup",
+    "version": "1.8.9",
+    "modloader": "forge",
+    "ram": "3G"
+  },
+  {
+    "name": "Modded Survival",
+    "version": "1.16.5",
+    "modloader": "fabric",
+    "ram": "6G"
+  }
+]
