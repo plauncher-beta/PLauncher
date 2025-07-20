@@ -30,13 +30,13 @@
 **Customize your User Interface while keeping Performance**
 
 
-<img src="https://i.imgur.com/gZGSyN5.png" width="600" height="355">
+<img src="https://i.imgur.com/gZGSyN5.png" width="750" height="420">
 
 
 **Choose a Clean and minimal display. Switch between Minecraft versions with ease**
 
 
-<img src="https://camo.githubusercontent.com/21939592a41b83f3e13d867cb704c5ad67d2bac30c52e89b905ac7e05b43a796/68747470733a2f2f692e746c61756e636865722e6f72672f696d616765732f796f786d68787a2e706e67" width="600" height="355"> 
+<img src="https://camo.githubusercontent.com/21939592a41b83f3e13d867cb704c5ad67d2bac30c52e89b905ac7e05b43a796/68747470733a2f2f692e746c61756e636865722e6f72672f696d616765732f796f786d68787a2e706e67" width="750" height="420"> 
 
 
 ---
