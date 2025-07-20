@@ -1,9 +1,6 @@
 # PLauncher
 
-> [!WARNING]
-> This launcher does **not** promote piracy. All game data is fetched from official Mojang sources. This tool is for educational and personal backup use only.
-
-# ⬜ PLauncher — Fast, Lightweight & Open Minecraft Launcher
+<img src="https://imgur.com/a/kgwQrq5">
 
 **PLauncher** is a free, minimalistic, and open-source Minecraft launcher built in **Python**. Designed for performance, flexibility, and full control, it’s perfect for offline use, modding, or experimenting with different versions of Minecraft without the bloat.
 
@@ -30,13 +27,17 @@
 ## 💻 Interface
 
 
-![Accessibility] 
-<img src="https://imgur.com/a/sbsN3s6" width="600" height="355">
-*Customize your Interface while keeping Performance*
+**Customize your Interface while keeping Performance**
 
-![Home screen]
-<img src="https://i.tlauncher.org/images/yoxmhxz.png" width="600" height="355"> 
+
+<img src="https://i.imgur.com/zEdCuwo.png" width="600" height="355">
+
+
 *Clean and minimal UI. Choose between Minecraft versions with ease*
+
+
+<img src="https://i.tlauncher.org/images/yoxmhxz.png" width="600" height="355"> 
+
 
 ---
 
@@ -61,21 +62,24 @@ pip install -r requirements.txt
 
 ### 🚀 3. Run the Launcher
 
-  **Steps **
+**Steps**
 
-    1. open cmd, type and enter:
+   **1. open cmd, type and enter:**
+    
 ```
 git clone https://github.com/plauncher-beta/PLauncher.git
 cd PLauncher
 ```
 
-    2.type and enter:
-```
+   **2.type and enter:**
+
+```    
 python main.py
 ```
+
 ---
 
-### 🕹 Usage
+# 🕹 Usage
 
 1. Launch PLauncher
 
@@ -87,8 +91,13 @@ python main.py
 
 ---
 
-### ⚖️ License
+# ⚖️ License
 
 Distributed under the **MIT License**.  
 See [`LICENSE`](LICENSE) for more information.
+
+---
+
+> [!WARNING]
+> This launcher does **not** promote piracy. All game data is fetched from official Mojang sources. This tool is for educational and personal backup use only.
 
