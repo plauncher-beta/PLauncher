@@ -1,6 +1,6 @@
 # PLauncher
 
-<img src="https://imgur.com/a/kgwQrq5">
+                                                            <img src="https://i.imgur.com/rOuPRLa.png">
 
 **PLauncher** is a free, minimalistic, and open-source Minecraft launcher built in **Python**. Designed for performance, flexibility, and full control, it’s perfect for offline use, modding, or experimenting with different versions of Minecraft without the bloat.
 
@@ -33,7 +33,7 @@
 <img src="https://i.imgur.com/zEdCuwo.png" width="600" height="355">
 
 
-*Clean and minimal UI. Choose between Minecraft versions with ease*
+**Clean and minimal UI. Choose between Minecraft versions with ease**
 
 
 <img src="https://i.tlauncher.org/images/yoxmhxz.png" width="600" height="355"> 
@@ -53,7 +53,9 @@ Download from: [https://python.org/downloads](https://python.org/downloads)
 > OR install **git** from https://git-scm.com/downloads
 ---
 
-### 📦 2. Install Required Packages
+### 📦 3. Install Required Packages
+
+**1. open cmd, type and enter:**
 
 ```
 pip install -r requirements.txt
