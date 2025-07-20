@@ -1,6 +1,6 @@
 # PLauncher
 
-                                                            <img src="https://i.imgur.com/rOuPRLa.png">
+<img src="https://i.imgur.com/rOuPRLa.png">
 
 **PLauncher** is a free, minimalistic, and open-source Minecraft launcher built in **Python**. Designed for performance, flexibility, and full control, it’s perfect for offline use, modding, or experimenting with different versions of Minecraft without the bloat.
 
