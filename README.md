@@ -20,7 +20,7 @@
 
 - **Multi-version Support** – Launch nearly any vanilla version
 
-> Support for skins, online servers, and account login are all included in Beta version.
+> Support for skins, online servers, and account login are all included in the Beta version.
 
 ---
 
